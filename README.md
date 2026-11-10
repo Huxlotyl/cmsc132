@@ -17,6 +17,8 @@ Notes:
 The test bench for the main project (combined components) will be the only test bench included in the project submission. This test bench should show at least one of the components 2, 3, 4, and 5 being activated.
 
 ### Opcode Assignments
+| BB |    SELECTION  |
+|----|---------------|
 | 00 |   Full Adder  |
 | 01 |      XOR      |
 | 10 |      NAND     |
