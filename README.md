@@ -23,3 +23,10 @@ The test bench for the main project (combined components) will be the only test 
 | 01 |      XOR      |
 | 10 |      NAND     |
 | 11 |AND(A,B)+NOT(B)|
+
+### References
+Llamas, L. (n.d.). Verilog logic gates: AND, OR, NOT, and XOR. Luis Llamas FPGA and Verilog Courses.
+https://www.luisllamas.es/en/verilog-logic-gates-and-or-not-xor/
+
+Martin, M., Roth, A. (n.d.). CIS 317 computer organization and design: Unit 4: Single-cycle datapath [Powerpoint Slides]. University of Pennsylvania.
+https://acg.cis.upenn.edu/milom/cis371-Spring12/lectures/04_singlecycle.pdf
